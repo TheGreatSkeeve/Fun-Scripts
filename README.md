@@ -1,4 +1,4 @@
-# Fun-Scripts
+# Fun Scripts
 Various collection of scripts I've written / found and changed over the years
 
 <h3> IP_Setter.bat  </h3>
